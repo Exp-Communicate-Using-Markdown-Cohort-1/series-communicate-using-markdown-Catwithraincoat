@@ -13,3 +13,8 @@ Hello Barby! Let's go party! O-o-o!
 print("Hello world!")
 # Code on python
 ```
+
+# STEP 4: Let's add a chack list #
+- [x] Oops I did it again
+- [x] Oh baby, baby
+- [ ]  mew
