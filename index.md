@@ -6,3 +6,10 @@ Hello Barby! Let's go party! O-o-o!
 # STEP 2: Let's add an image #
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# STEP 3: Let's add a code blocks #
+
+```
+print("Hello world!")
+# Code on python
+```
